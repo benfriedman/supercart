@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuperCart</string>
+    <string name="signup_button">New User? Sign Up Here!</string>
+    <string name="login_button">Returning User? Log In!</string>
+</resources>
